@@ -1,0 +1,41 @@
+/*
+
+1- what is **  Do ?
+it's the power of the number
+$x = 10 ** 3 ;
+x=1000
+
+2- diff $x++ , ++$x
+$x++ will increment x in the next statement 
+but , ++$x will increment x in the same time
+
+3- '' and "" 	diff
+'' you can't assign value to any variable but,
+"" you can assign value to any variable
+
+ 6- All variables in PHP start with which symbol?
+with $ simbol
+
+7- What is the correct way to end a PHP statement?
+it's    ?>
+
+8- In PHP you can use both single quotes ( ' ' ) and double quotes ( " " ) for strings(t/f)
+true
+
+9- What is the correct way to add 1 to the $counter variable?
+++$counter
+
+10- What is a correct way to add a comment in PHP?
+/*  */
+
+12- Which one of these variables has an illegal name?
+$1name
+
+13- In PHP, the only way to output text is with echo
+no with print too
+
+14-Which operator is used to check if two values are equal and of same data type?
+===
+
+
+*/
